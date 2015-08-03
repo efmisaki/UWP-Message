@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-LO2PR65</Machine>
+    <WindowsUser>uiuif</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>fa86e2c2-17d5-4683-8083-3f722d9b97d3</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>F1454504A0EDC071CA356DF207C9AF1CB89805BD6D3E635286B8F1F5BF268097</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>fa86e2c2-17d5-4683-8083-3f722d9b97d3_1.0.0.0_x86__040k8k94983nj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>fa86e2c2-17d5-4683-8083-3f722d9b97d3_040k8k94983nj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>fa86e2c2-17d5-4683-8083-3f722d9b97d3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=uiuif</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-03T01:33:44.890</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\ApplicationInsights.config">
+      <PackagePath>ApplicationInsights.config</PackagePath>
+      <Modified>2015-08-03T01:17:18.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-06-18T01:22:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <Modified>2015-06-18T01:22:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-18T01:22:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-18T01:22:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <Modified>2015-06-18T01:22:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2015-06-18T01:22:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-18T01:22:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+      <Modified>2015-07-31T07:03:45.643</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\entrypoint\uwp-message.exe">
+      <PackagePath>entrypoint\uwp-message.exe</PackagePath>
+      <Modified>2015-08-03T01:33:44.446</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll">
+      <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
+      <Modified>2015-07-31T07:03:34.810</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll">
+      <PackagePath>Microsoft.ApplicationInsights.Extensibility.Windows.dll</PackagePath>
+      <Modified>2015-07-31T07:03:35.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll">
+      <PackagePath>Microsoft.ApplicationInsights.PersistenceChannel.dll</PackagePath>
+      <Modified>2015-07-31T07:03:35.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\Microsoft.CSharp.dll">
+      <PackagePath>Microsoft.CSharp.dll</PackagePath>
+      <Modified>2015-07-31T07:03:41.385</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\Microsoft.VisualBasic.dll">
+      <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
+      <Modified>2015-07-31T07:03:40.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll">
+      <PackagePath>Microsoft.Win32.Primitives.dll</PackagePath>
+      <Modified>2015-07-31T07:03:36.410</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2015-08-03T01:17:01.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-08-03T01:23:51.326</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.AppContext.dll">
+      <PackagePath>System.AppContext.dll</PackagePath>
+      <Modified>2015-07-31T07:03:40.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Collections.Concurrent.dll">
+      <PackagePath>System.Collections.Concurrent.dll</PackagePath>
+      <Modified>2015-07-31T07:03:40.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Collections.dll">
+      <PackagePath>System.Collections.dll</PackagePath>
+      <Modified>2015-07-31T07:03:41.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Collections.Immutable.dll">
+      <PackagePath>System.Collections.Immutable.dll</PackagePath>
+      <Modified>2015-07-31T07:03:41.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Collections.NonGeneric.dll">
+      <PackagePath>System.Collections.NonGeneric.dll</PackagePath>
+      <Modified>2015-07-31T07:03:36.535</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Collections.Specialized.dll">
+      <PackagePath>System.Collections.Specialized.dll</PackagePath>
+      <Modified>2015-07-31T07:03:35.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll">
+      <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
+      <Modified>2015-07-31T07:03:41.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.ComponentModel.DataAnnotations.dll">
+      <PackagePath>System.ComponentModel.DataAnnotations.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.738</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.ComponentModel.dll">
+      <PackagePath>System.ComponentModel.dll</PackagePath>
+      <Modified>2015-07-31T07:03:40.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll">
+      <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
+      <Modified>2015-07-31T07:03:36.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Core.dll">
+      <PackagePath>System.Core.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.753</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Data.Common.dll">
+      <PackagePath>System.Data.Common.dll</PackagePath>
+      <Modified>2015-07-31T07:03:37.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll">
+      <PackagePath>System.Diagnostics.Contracts.dll</PackagePath>
+      <Modified>2015-07-31T07:03:36.879</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Diagnostics.Debug.dll">
+      <PackagePath>System.Diagnostics.Debug.dll</PackagePath>
+      <Modified>2015-07-31T07:03:41.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Diagnostics.StackTrace.dll">
+      <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
+      <Modified>2015-07-31T07:03:37.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Diagnostics.Tools.dll">
+      <PackagePath>System.Diagnostics.Tools.dll</PackagePath>
+      <Modified>2015-07-31T07:03:41.744</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll">
+      <PackagePath>System.Diagnostics.Tracing.dll</PackagePath>
+      <Modified>2015-07-31T07:03:42.215</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.dll">
+      <PackagePath>System.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.753</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Dynamic.Runtime.dll">
+      <PackagePath>System.Dynamic.Runtime.dll</PackagePath>
+      <Modified>2015-07-31T07:03:43.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Globalization.Calendars.dll">
+      <PackagePath>System.Globalization.Calendars.dll</PackagePath>
+      <Modified>2015-07-31T07:03:42.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Globalization.dll">
+      <PackagePath>System.Globalization.dll</PackagePath>
+      <Modified>2015-07-31T07:03:42.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Globalization.Extensions.dll">
+      <PackagePath>System.Globalization.Extensions.dll</PackagePath>
+      <Modified>2015-07-31T07:03:42.722</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.IO.Compression.dll">
+      <PackagePath>System.IO.Compression.dll</PackagePath>
+      <Modified>2015-07-31T07:03:43.256</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll">
+      <PackagePath>System.IO.Compression.ZipFile.dll</PackagePath>
+      <Modified>2015-07-31T07:03:42.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.IO.dll">
+      <PackagePath>System.IO.dll</PackagePath>
+      <Modified>2015-07-31T07:03:42.722</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.IO.FileSystem.dll">
+      <PackagePath>System.IO.FileSystem.dll</PackagePath>
+      <Modified>2015-07-31T07:03:43.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll">
+      <PackagePath>System.IO.FileSystem.Primitives.dll</PackagePath>
+      <Modified>2015-07-31T07:03:43.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll">
+      <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
+      <Modified>2015-07-31T07:03:37.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll">
+      <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
+      <Modified>2015-07-31T07:03:43.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Linq.dll">
+      <PackagePath>System.Linq.dll</PackagePath>
+      <Modified>2015-07-31T07:03:43.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Linq.Expressions.dll">
+      <PackagePath>System.Linq.Expressions.dll</PackagePath>
+      <Modified>2015-07-31T07:03:44.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Linq.Parallel.dll">
+      <PackagePath>System.Linq.Parallel.dll</PackagePath>
+      <Modified>2015-07-31T07:03:43.587</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Linq.Queryable.dll">
+      <PackagePath>System.Linq.Queryable.dll</PackagePath>
+      <Modified>2015-07-31T07:03:42.597</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Net.dll">
+      <PackagePath>System.Net.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Net.Http.dll">
+      <PackagePath>System.Net.Http.dll</PackagePath>
+      <Modified>2015-07-31T07:03:43.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Net.Http.Rtc.dll">
+      <PackagePath>System.Net.Http.Rtc.dll</PackagePath>
+      <Modified>2015-07-31T07:03:37.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Net.NetworkInformation.dll">
+      <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
+      <Modified>2015-07-31T07:03:41.856</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Net.Primitives.dll">
+      <PackagePath>System.Net.Primitives.dll</PackagePath>
+      <Modified>2015-07-31T07:03:42.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Net.Requests.dll">
+      <PackagePath>System.Net.Requests.dll</PackagePath>
+      <Modified>2015-07-31T07:03:37.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Net.Sockets.dll">
+      <PackagePath>System.Net.Sockets.dll</PackagePath>
+      <Modified>2015-07-31T07:03:37.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll">
+      <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
+      <Modified>2015-07-31T07:03:37.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Numerics.dll">
+      <PackagePath>System.Numerics.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Numerics.Vectors.dll">
+      <PackagePath>System.Numerics.Vectors.dll</PackagePath>
+      <Modified>2015-07-31T07:03:42.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll">
+      <PackagePath>System.Numerics.Vectors.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-07-31T07:03:37.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.ObjectModel.dll">
+      <PackagePath>System.ObjectModel.dll</PackagePath>
+      <Modified>2015-07-31T07:03:41.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll">
+      <PackagePath>System.Private.DataContractSerialization.dll</PackagePath>
+      <Modified>2015-07-31T07:03:38.372</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Private.Networking.dll">
+      <PackagePath>System.Private.Networking.dll</PackagePath>
+      <Modified>2015-07-31T07:03:37.194</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Private.ServiceModel.dll">
+      <PackagePath>System.Private.ServiceModel.dll</PackagePath>
+      <Modified>2015-07-31T07:03:41.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Private.Uri.dll">
+      <PackagePath>System.Private.Uri.dll</PackagePath>
+      <Modified>2015-07-31T07:03:35.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Reflection.Context.dll">
+      <PackagePath>System.Reflection.Context.dll</PackagePath>
+      <Modified>2015-07-31T07:03:38.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll">
+      <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
+      <Modified>2015-07-31T07:03:41.117</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Reflection.dll">
+      <PackagePath>System.Reflection.dll</PackagePath>
+      <Modified>2015-07-31T07:03:42.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Reflection.Emit.dll">
+      <PackagePath>System.Reflection.Emit.dll</PackagePath>
+      <Modified>2015-07-31T07:03:45.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll">
+      <PackagePath>System.Reflection.Emit.ILGeneration.dll</PackagePath>
+      <Modified>2015-07-31T07:03:45.610</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll">
+      <PackagePath>System.Reflection.Emit.Lightweight.dll</PackagePath>
+      <Modified>2015-07-31T07:03:45.532</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Reflection.Extensions.dll">
+      <PackagePath>System.Reflection.Extensions.dll</PackagePath>
+      <Modified>2015-07-31T07:03:40.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Reflection.Metadata.dll">
+      <PackagePath>System.Reflection.Metadata.dll</PackagePath>
+      <Modified>2015-07-31T07:03:42.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Reflection.Primitives.dll">
+      <PackagePath>System.Reflection.Primitives.dll</PackagePath>
+      <Modified>2015-07-31T07:03:41.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll">
+      <PackagePath>System.Reflection.TypeExtensions.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Resources.ResourceManager.dll">
+      <PackagePath>System.Resources.ResourceManager.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.847</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2015-07-31T07:03:43.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Runtime.Extensions.dll">
+      <PackagePath>System.Runtime.Extensions.dll</PackagePath>
+      <Modified>2015-07-31T07:03:40.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Runtime.Handles.dll">
+      <PackagePath>System.Runtime.Handles.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.173</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Runtime.InteropServices.dll">
+      <PackagePath>System.Runtime.InteropServices.dll</PackagePath>
+      <Modified>2015-07-31T07:03:40.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.InteropServices.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-07-31T07:03:38.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Runtime.Numerics.dll">
+      <PackagePath>System.Runtime.Numerics.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Runtime.Serialization.dll">
+      <PackagePath>System.Runtime.Serialization.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll">
+      <PackagePath>System.Runtime.Serialization.Json.dll</PackagePath>
+      <Modified>2015-07-31T07:03:38.356</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll">
+      <PackagePath>System.Runtime.Serialization.Primitives.dll</PackagePath>
+      <Modified>2015-07-31T07:03:38.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll">
+      <PackagePath>System.Runtime.Serialization.Xml.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.UI.Xaml.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Security.Claims.dll">
+      <PackagePath>System.Security.Claims.dll</PackagePath>
+      <Modified>2015-07-31T07:03:38.951</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Security.Principal.dll">
+      <PackagePath>System.Security.Principal.dll</PackagePath>
+      <Modified>2015-07-31T07:03:38.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.ServiceModel.dll">
+      <PackagePath>System.ServiceModel.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll">
+      <PackagePath>System.ServiceModel.Duplex.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.ServiceModel.Http.dll">
+      <PackagePath>System.ServiceModel.Http.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll">
+      <PackagePath>System.ServiceModel.NetTcp.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll">
+      <PackagePath>System.ServiceModel.Primitives.dll</PackagePath>
+      <Modified>2015-07-31T07:03:42.361</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.ServiceModel.Security.dll">
+      <PackagePath>System.ServiceModel.Security.dll</PackagePath>
+      <Modified>2015-07-31T07:03:40.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.ServiceModel.Web.dll">
+      <PackagePath>System.ServiceModel.Web.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll">
+      <PackagePath>System.Text.Encoding.CodePages.dll</PackagePath>
+      <Modified>2015-07-31T07:03:43.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Text.Encoding.dll">
+      <PackagePath>System.Text.Encoding.dll</PackagePath>
+      <Modified>2015-07-31T07:03:38.967</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll">
+      <PackagePath>System.Text.Encoding.Extensions.dll</PackagePath>
+      <Modified>2015-07-31T07:03:38.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Text.RegularExpressions.dll">
+      <PackagePath>System.Text.RegularExpressions.dll</PackagePath>
+      <Modified>2015-07-31T07:03:38.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Threading.dll">
+      <PackagePath>System.Threading.dll</PackagePath>
+      <Modified>2015-07-31T07:03:40.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Threading.Overlapped.dll">
+      <PackagePath>System.Threading.Overlapped.dll</PackagePath>
+      <Modified>2015-07-31T07:03:35.453</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Threading.Tasks.Dataflow.dll">
+      <PackagePath>System.Threading.Tasks.Dataflow.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Threading.Tasks.dll">
+      <PackagePath>System.Threading.Tasks.dll</PackagePath>
+      <Modified>2015-07-31T07:03:38.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll">
+      <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
+      <Modified>2015-07-31T07:03:37.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Threading.Timer.dll">
+      <PackagePath>System.Threading.Timer.dll</PackagePath>
+      <Modified>2015-07-31T07:03:36.991</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Windows.dll">
+      <PackagePath>System.Windows.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Xml.dll">
+      <PackagePath>System.Xml.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.831</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Xml.Linq.dll">
+      <PackagePath>System.Xml.Linq.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.831</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll">
+      <PackagePath>System.Xml.ReaderWriter.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Xml.Serialization.dll">
+      <PackagePath>System.Xml.Serialization.dll</PackagePath>
+      <Modified>2015-07-31T07:03:39.847</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Xml.XDocument.dll">
+      <PackagePath>System.Xml.XDocument.dll</PackagePath>
+      <Modified>2015-07-31T07:03:37.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Xml.XmlDocument.dll">
+      <PackagePath>System.Xml.XmlDocument.dll</PackagePath>
+      <Modified>2015-07-31T07:03:36.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll">
+      <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
+      <Modified>2015-07-31T07:03:41.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\uwp-message.exe">
+      <PackagePath>uwp-message.exe</PackagePath>
+      <Modified>2015-08-03T01:33:44.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\uwp-message.xr.xml">
+      <PackagePath>uwp-message.xr.xml</PackagePath>
+      <Modified>2015-08-03T01:23:50.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\uiuif\documents\visual studio 2015\Projects\uwp-message\uwp-message\bin\x86\Debug\Core\WinMetadata\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2015-07-31T06:48:57.730</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23117.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23117.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\ARM\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23117.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23117.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x64\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\">
+      <Name>Microsoft.NET.CoreRuntime.1.0</Name>
+      <Version>1.0.23117.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.0, MinVersion = 1.0.23117.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.0\.\AppX\x86\Microsoft.NET.CoreRuntime.1.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23019.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23019.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23019.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23019.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23019.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23019.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
